@@ -4,4 +4,4 @@ WindowsSecurity and Programming class
 * exploit
 * shellcode
 * stackoverflow
-* integeroverflow (including exploit)
+* integeroverflow
